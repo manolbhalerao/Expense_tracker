@@ -1,10 +1,10 @@
-##📌 Expense Tracker (Python + Pandas)
+## 📌 Expense Tracker (Python + Pandas)
 #Overview
 
 This is a command-line based Expense Tracker built using Python and Pandas.
 The application allows users to record, manage, and analyze personal expenses with monthly budgeting insights and category-wise summaries.
 
-The project demonstrates practical implementation of:
+## The project demonstrates practical implementation of:
 
 Object-Oriented Programming (OOP)
 
@@ -16,7 +16,7 @@ Budget analysis logic
 
 Date filtering & monthly summaries
 
-##Features
+## Features
 
 ✅ Add new expenses with auto-generated ID
 ✅ Store expenses in CSV file (persistent storage)
@@ -27,7 +27,7 @@ Date filtering & monthly summaries
 ✅ Delete expense by ID
 ✅ Menu-driven CLI interface
 
-##Technologies Used
+## Technologies Used
 
 Python 3
 
@@ -39,7 +39,7 @@ CSV File Handling
 
 Datetime & Calendar modules
 
-##Data Structure
+## Data Structure
 
 Expenses are stored in a CSV file with the following columns:
 
@@ -51,14 +51,14 @@ Category   Expense category
 Amount	   Expense amount
 
 
-▶ How to Run the Project
+## ▶ How to Run the Project
 1️⃣ Install Dependencies
 pip install pandas
 
 2️⃣ Run the Program
 python expense_tracker.py
 
-##Example Menu
+## Example Menu
 
 ==== Expense Tracker Menu ====
 1. Add Expense
@@ -70,7 +70,7 @@ python expense_tracker.py
 7. Exit
 
 
-##Budget Analysis Logic
+## Budget Analysis Logic
 
 The system calculates:
 
@@ -81,7 +81,7 @@ Remaining monthly budget
 Suggested daily budget based on remaining days in current month
 
 
-##Learning Outcomes
+## Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
@@ -96,7 +96,7 @@ Date filtering and time-based analysis
 CLI-based application development
 
 
-##Author
+## Author
 
 Manol Bhalerao
 
